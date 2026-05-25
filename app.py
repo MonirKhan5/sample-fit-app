@@ -18,3 +18,10 @@ st.subheader('Data Analysis')
 st.subheader('Python')
 st.subheader('SQL')
 st.subheader('DSA')
+
+st.sidebar.title('Menu')
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
